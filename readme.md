@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Morr-Org/e070a048-57bc-4620-b486-a4dfa378a77e/799a0f88-57a0-4815-87a1-b0e0f13edfac/_apis/work/boardbadge/9ef88836-5497-49bf-ba6b-dd2859cb8adc)](https://dev.azure.com/Morr-Org/e070a048-57bc-4620-b486-a4dfa378a77e/_boards/board/t/799a0f88-57a0-4815-87a1-b0e0f13edfac/Microsoft.RequirementCategory)
 # Deploy Azure VM using Arm Templates and Terraform
 
 ## ARM Templates Deployment
